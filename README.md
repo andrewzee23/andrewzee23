@@ -1,10 +1,10 @@
-## Hi there, I'm Andrew! 👋
+## Hi there, I'm Andrew!
 
 ### Who am I?
 - I'm 25 years old living in San Antonio, Texas
-- 🌱  I’m currently learning everything 🤣
-- 🥅  2020 Goals: Graduate from bootcamp! 🎓
-- ⚡  Fun fact: I love sports and I'm also left handed!!
+- I’m currently learning everything 
+- 2020 Goals: Graduate from bootcamp!
+- Fun fact: I love sports and I'm also left handed!!
 
 ### Connect with me:
 
