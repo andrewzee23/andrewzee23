@@ -1,7 +1,8 @@
-## Hi there 👋 Welcome to my Github!
+### Hi there, I'm Andrew! 👋
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 - Niko
+
 
 
 <!--
