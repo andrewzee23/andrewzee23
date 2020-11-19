@@ -1,7 +1,10 @@
 ### Hi there, I'm Andrew! 👋
 
-## 🔭 I’m currently working on ...
-- Niko
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Graduate from bootcamp! 🎓
+- ⚡ Fun fact: I love sports and I'm also left handed!!
+
+
 
 
 
