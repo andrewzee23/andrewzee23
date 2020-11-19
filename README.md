@@ -1,8 +1,15 @@
 ### Hi there, I'm Andrew! 👋
 
+## Who am I?
+- I'm 25 years old living in San Antonio, Texas
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Graduate from bootcamp! 🎓
 - ⚡ Fun fact: I love sports and I'm also left handed!!
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
 
 
 
